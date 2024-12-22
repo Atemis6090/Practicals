@@ -1,0 +1,32 @@
+body{
+    font-family: Arial,  sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0px;
+}
+.Container{
+    max-width: 200px;
+    margin: auto;
+    background: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px ;
+}
+h2{
+    text-align: left;
+}
+label{
+    display: block;
+    margin: 10px 0 5px;
+}
+input{
+    width: 40%; 
+    padding: 10px;
+    margin-bottom: none;
+    border: 1px solid black;
+    border-radius: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: black;
+}
